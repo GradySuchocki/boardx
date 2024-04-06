@@ -1,17 +1,3 @@
-
-
-
-
-
-CODE
-Minimize Code View
-
-React
-JavaScript, CSS Modules
-
-
-Desktop.js
-FrameComponent.js
 import styles from "./FrameComponent.module.css";
 
 const FrameComponent = () => {
@@ -56,3 +42,7 @@ const FrameComponent = () => {
         <div className={styles.forgotPassword}>Forgot Password</div>
       </div>
     </form>
+  );
+};
+
+export default FrameComponent;
