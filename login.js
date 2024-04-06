@@ -1,4 +1,5 @@
-import * as React from "react";
+// MyComponent.js
+import React from "react";
 
 function MyComponent() {
   return (
@@ -33,5 +34,7 @@ function MyComponent() {
     </div>
   );
 }
+
+export default MyComponent;
 
 
